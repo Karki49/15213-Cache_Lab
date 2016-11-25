@@ -1,4 +1,7 @@
-This is the handout directory for the 15-213 Cache Lab. 
+I wrote csim.c and trans.c files.
+
+csim.c is for simulation of cache hits, misses and evictions.
+tran.c is for optimizing making a transpose of a matrix by minimizing cache misses.
 
 ************************
 Running the autograders:
